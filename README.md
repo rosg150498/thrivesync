@@ -12,6 +12,26 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
 
 ### User Goals
 
+1. Color, Icons/Images, Font that are visually appealing.
+
+2. Implementation of accessibility features that are easily identified including alt text.
+
+3. Seamlessly navigate through the content of the platform.
+   
+4. Platform sections that are organised, welcoming and in a inviting manner.
+
+5. Sections designed with ample white space to enhance readability and minimise unnecessary content.
+
+6. Able to effortlessly discover events related to personal development journey.
+
+7. Able to register for preferred events, access event details and actively participate in sessions.
+
+8. Able to engage with like-minded individuals.
+
+9. Ability to track personal progress.
+
+10. Able to provide feedback by offering ratings and comments to events and sessions.
+
 ### User Stories
 
 ### Site Owner Goals
