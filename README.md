@@ -34,6 +34,26 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
 
 ### User Stories
 
+1. As a new user, I want to be able to easily register for an account, providing basic information.
+
+2. As a returning user, I want the option to log in quickly using my existing details.
+   
+3. As a user, I want to navigate a list of upcoming personal development events, organized by category and date, so I can find events that interest me.
+
+4. As a user, I want to view detailed event information, including date, time, location and speaker details.
+   
+5. As a user, I want to register for events with a simple and intuitive process, including options for free and paid events.
+
+6. As a user, I want to access event materials, such as presentation slides or handouts, for reference during and after sessions.
+
+7. As a user, I want to engage in interactive sessions by participating in polls, and joining breakout discussions.
+    
+8. As a user, I want to connect with other individuals who share similar interests and goals.
+   
+9. As a user, I want to track my personal development progress by setting goals and monitoring achievements.
+
+10. As a user, I want to provide feedback and ratings for events and sessions I attend to help improve the quality of future content.
+   
 ### Site Owner Goals
 
 ### Requirements
