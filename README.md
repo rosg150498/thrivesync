@@ -32,6 +32,8 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
 
 10. Able to provide feedback by offering ratings and comments to events and sessions.
 
+<hr>
+
 ### User Stories
 
 1. As a new user, I want to be able to easily register for an account, providing basic information.
@@ -53,6 +55,8 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
 9. As a user, I want to track my personal development progress by setting goals and monitoring achievements.
 
 10. As a user, I want to provide feedback and ratings for events and sessions I attend to help improve the quality of future content.
+
+<hr>
    
 ### Site Owner Goals
 
@@ -68,6 +72,7 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
   
 * Provide an inclusive experience for all users.
 
+<hr>
   
 ### Requirements
 
@@ -94,6 +99,8 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
 * The platform's design should maintain a consistent and aesthetically pleasing appearance that aligns with the platform's tone and objectives.
   
 * The platform should offer accessibility across a range of screen devices, including mobile phones, desktops, tablets, and laptops.
+
+<hr>
 
 ### Expectations
 
