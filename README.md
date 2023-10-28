@@ -97,6 +97,26 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
 
 ### Expectations
 
+* I expect the webpage to load quickly and efficiently, ensuring that I can access it without delay or frustration.
+  
+* I expect the website to provide a visually appealing and professionally designed interface that is not only pleasing to the eye but also easy to navigate, ensuring a seamless and enjoyable user experience.
+  
+* I expect the navigation links to direct me to the relevant page sections.
+  
+* I expect relevant and diverse content provided to progress as an individual.
+  
+* I expect community interaction to connect with like-minded individuals.
+  
+* I expect responsive feedback to ensure improvements are overseen and fulfilled.
+  
+* I expect clear community guidelines that foster a respectful and inclusive environment.
+
+* I expect progress tracking to monitor their personal development progress and set goals.
+  
+* I expect supportive assistance with any issues within the platform to ensure a smooth experience.
+  
+* I expect mobile responsiveness so I can view the content on my mobile device.
+
 ## Website Design Choices
 
 ### Colours
