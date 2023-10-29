@@ -10,6 +10,10 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
 
 ## Data Modelling & Planning
 
+### Data Modelling Overview
+
+![database-tables-thrive-sync](https://github.com/rosg150498/thrivesync/assets/114010857/542f2573-5659-4693-8d49-b7b3eb10b66d)
+
 ### User Goals
 
 1. Color, Icons/Images, Font that are visually appealing.
