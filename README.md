@@ -134,6 +134,8 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
 
 ### Colours
 
+
+
 ### Fonts
 
 I conducted extensive experimentation with a diverse range of fonts available on the Google Fonts website. This exploration aimed to identify a typeface that I consider highly fitting for the single-page website dedicated to the virtual personal development event platform. After thorough assessment and testing, I selected typefaces that I believe perfectly embodies the platform's essence and objectives.
@@ -143,6 +145,8 @@ Utilizing Open Sans as the primary body text font for the event platform is just
 I have chosen to use the Lato typeface exclusively for headings on the virtual personal development event platform. Lato's distinctive design and readability make it an ideal choice for capturing users' attention and providing a clear typographic hierarchy. Its versatile range of font weights and styles allows for flexibility in presenting content while maintaining a cohesive and professional visual identity. This selection aligns seamlessly with the platform's goal of offering a polished and engaging user experience.
 
 ### Icons
+
+In the process of developing my personal development event platform, I will integrate icons sourced from the Flat Icon website (https://www.flaticon.com/). The incorporation of visual icons serves a dual purpose in enhancing both the aesthetics and functionality of the platform. Icons provide intuitive visual cues that simplify navigation, making it easier for users to identify and access specific sections and features. Additionally, they add a layer of visual appeal and engagement, contributing to an overall user-friendly and aesthetically pleasing experience. By strategically using icons, I aim to create a platform that not only guides users efficiently but also immerses them in a visually engaging and informative journey of personal development.
 
 ## Media Queries / Responsive Design Wireframing
 
