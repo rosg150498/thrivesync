@@ -136,6 +136,12 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
 
 ### Fonts
 
+I conducted extensive experimentation with a diverse range of fonts available on the Google Fonts website. This exploration aimed to identify a typeface that I consider highly fitting for the single-page website dedicated to the virtual personal development event platform. After thorough assessment and testing, I selected typefaces that I believe perfectly embodies the platform's essence and objectives.
+
+Utilizing Open Sans as the primary body text font for the event platform is justified by its exceptional readability, versatile design, and widespread compatibility. Open Sans offers a balanced and contemporary typographic style that ensures users can comfortably engage with content, promoting comprehension and reducing visual fatigue. Its diverse range of font weights allows for effective typographic hierarchy, creating structured and visually appealing layouts. Being a web-safe font with extensive cross-browser and cross-device support, Open Sans guarantees consistent and reliable text rendering, providing a seamless and accessible experience to a broad audience. Furthermore, its neutrality and adaptability make it a trusted choice for conveying professional and growth-oriented content, contributing to a positive and user-friendly platform environment.
+
+I have chosen to use the Lato typeface exclusively for headings on the virtual personal development event platform. Lato's distinctive design and readability make it an ideal choice for capturing users' attention and providing a clear typographic hierarchy. Its versatile range of font weights and styles allows for flexibility in presenting content while maintaining a cohesive and professional visual identity. This selection aligns seamlessly with the platform's goal of offering a polished and engaging user experience.
+
 ### Icons
 
 ## Media Queries / Responsive Design Wireframing
