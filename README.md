@@ -144,6 +144,7 @@ I have decided upon the utilization of #FAF9F9, a near-white shade, to serve as 
 
 I've selected the colour shade of #221B1C, a deep charcoal hue, for presenting textual content on lighter backgrounds. This selection is based on its capacity to provide high contrast, guaranteeing exceptional legibility and effectiveness in conveying information with utmost clarity.
 
+<hr>
 
 ### Fonts
 
@@ -153,9 +154,13 @@ Utilizing Open Sans as the primary body text font for the event platform is just
 
 I have chosen to use the Lato typeface exclusively for headings on the virtual personal development event platform. Lato's distinctive design and readability make it an ideal choice for capturing users' attention and providing a clear typographic hierarchy. Its versatile range of font weights and styles allows for flexibility in presenting content while maintaining a cohesive and professional visual identity. This selection aligns seamlessly with the platform's goal of offering a polished and engaging user experience.
 
+<hr>
+
 ### Icons
 
 In the process of developing my personal development event platform, I will integrate icons sourced from the Flat Icon website (https://www.flaticon.com/). The incorporation of visual icons serves a dual purpose in enhancing both the aesthetics and functionality of the platform. Icons provide intuitive visual cues that simplify navigation, making it easier for users to identify and access specific sections and features. Additionally, they add a layer of visual appeal and engagement, contributing to an overall user-friendly and aesthetically pleasing experience. By strategically using icons, I aim to create a platform that not only guides users efficiently but also immerses them in a visually engaging and informative journey of personal development.
+
+<hr>
 
 ## Media Queries / Responsive Design Wireframing
 
