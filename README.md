@@ -134,6 +134,15 @@ Welcome to ThriveSync. Thrive Sync is a personal development virtual event platf
 
 ### Colours
 
+The selection of colour choices plays a pivotal role in shaping the visual identity and functionality of the virtual event system. Each colour, carefully chosen from a palette of #2ECC71, #185D8B, #FAF9F9, and #221B1C, serves a specific purpose in enhancing the overall visibility and user experience. These thoughtfully curated hues not only evoke emotions and convey professionalism but also ensure that content is accessible and engagement is encouraged. In this comprehensive colour scheme, the aim is to create an environment where users can seamlessly navigate, access information, and interact with the platform while enjoying an aesthetically pleasing and visually engaging experience.
+
+I have decided upon the colour shade of #185D8B, a profound and confident deep blue hue, specifically allocated to our platform's navigation bar, pivotal headings and footer. This deliberate choice stems from its ability to evoke a sense of trustworthiness and professionalism, qualities that are paramount in our role as facilitators of users' personal development journeys. By employing this hue strategically, we aim to provide clear and highly visible navigation cues, ensuring that users can effortlessly explore the richness of our platform's content with utmost clarity.
+
+I have chosen upon the incorporation of #2ECC71, a lively and attention-grabbing green hue, primarily designated for our platform's call-to-action buttons and essential interactive elements. This decision stems from its ability to capture the user's attention and prompt them to take vital actions, such as event registration, thus ensuring their clear visibility and fostering active engagement with our platform.
+
+I have decided upon the utilization of #FAF9F9, a near-white shade, to serve as the background color for the virtual platform, promoting a clean and easily accessible environment. This choice has been made with the intention of enhancing the contrast between text and content, thereby ensuring that users can effortlessly read and engage with the array of offerings on our platform.
+
+I've selected the colour shade of #221B1C, a deep charcoal hue, for presenting textual content on lighter backgrounds. This selection is based on its capacity to provide high contrast, guaranteeing exceptional legibility and effectiveness in conveying information with utmost clarity.
 
 
 ### Fonts
