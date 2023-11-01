@@ -164,6 +164,9 @@ In the process of developing my personal development event platform, I will inte
 
 ## Media Queries / Responsive Design Wireframing
 
+![Mobile Device Wireframe Hero Section](https://github.com/rosg150498/thrivesync/assets/114010857/39e03dd1-66e0-46bf-9cc0-20fd891ff0fd)
+
+
 ## Project Features
 
 ### Current Features 
