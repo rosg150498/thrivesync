@@ -167,6 +167,11 @@ In the process of developing my personal development event platform, I will inte
 ![Mobile Device Wireframe Hero Section](https://github.com/rosg150498/thrivesync/assets/114010857/39e03dd1-66e0-46bf-9cc0-20fd891ff0fd)
 
 
+![Untitledmobile-device-wireframe-about-us-section](https://github.com/rosg150498/thrivesync/assets/114010857/8563539e-7aaf-4e1f-8f3c-9090e221ee63)
+
+
+
+
 ## Project Features
 
 ### Current Features 
