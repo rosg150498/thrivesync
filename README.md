@@ -184,6 +184,7 @@ In the process of developing my personal development event platform, I will inte
 
 ![User Registration](https://github.com/rosg150498/thrivesync/assets/114010857/6908307c-df3d-4939-ad19-77f7a75be3da)
 
+### iPhone SE User Profile Section
 
 ![User Profile](https://github.com/rosg150498/thrivesync/assets/114010857/b9ccd476-d970-4063-9176-d6e739d4501b)
 
