@@ -185,6 +185,9 @@ In the process of developing my personal development event platform, I will inte
 ![User Profile](https://github.com/rosg150498/thrivesync/assets/114010857/b9ccd476-d970-4063-9176-d6e739d4501b)
 
 
+![Help_Support Section](https://github.com/rosg150498/thrivesync/assets/114010857/237b933b-4fed-486c-ada4-1b667a515aef)
+
+
 
 ## Project Features
 
