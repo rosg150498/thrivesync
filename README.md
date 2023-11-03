@@ -191,6 +191,9 @@ In the process of developing my personal development event platform, I will inte
 ![Feedback Section](https://github.com/rosg150498/thrivesync/assets/114010857/d19ff0d4-86de-414c-b37f-57e0b772dbd3)
 
 
+![Terms and Privacy Section](https://github.com/rosg150498/thrivesync/assets/114010857/3c30546c-74ae-4401-aaf9-f642be0e7d77)
+
+
 
 ## Project Features
 
