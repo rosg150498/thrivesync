@@ -172,6 +172,7 @@ In the process of developing my personal development event platform, I will inte
 
 ![Untitledmobile-device-wireframe-about-us-section](https://github.com/rosg150498/thrivesync/assets/114010857/8563539e-7aaf-4e1f-8f3c-9090e221ee63)
 
+### iPhone SE Events Section
 
 ![Events Section](https://github.com/rosg150498/thrivesync/assets/114010857/b5d38ed9-adea-492c-a9bd-7a7b56f6b19b)
 
