@@ -180,6 +180,7 @@ In the process of developing my personal development event platform, I will inte
 
 ![Event Schedule](https://github.com/rosg150498/thrivesync/assets/114010857/c4e3a060-16d3-4c47-b7ad-f0ea040bb9fd)
 
+### iPhone SE User Registration Section
 
 ![User Registration](https://github.com/rosg150498/thrivesync/assets/114010857/6908307c-df3d-4939-ad19-77f7a75be3da)
 
