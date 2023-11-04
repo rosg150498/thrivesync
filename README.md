@@ -236,6 +236,7 @@ In the process of developing my personal development event platform, I will inte
 
 ![Feedback Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/2728d69a-ad2a-410a-a223-ff7a9fb999be)
 
+### iPad Mini 8.3 Terms and Privacy Section
 
 ![Terms and Privacy Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/24ee7e5d-cb40-48df-8993-3f00bb9323b9)
 
