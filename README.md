@@ -205,6 +205,9 @@ In the process of developing my personal development event platform, I will inte
 ![Logout Section](https://github.com/rosg150498/thrivesync/assets/114010857/5ce660cc-2053-45f6-aadd-9a17eff7c1f7)
 
 
+![Hero Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/578f5bdb-c630-4ac3-b761-ef872076aa95)
+
+
 ## Project Features
 
 ### Current Features 
