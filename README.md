@@ -220,6 +220,7 @@ In the process of developing my personal development event platform, I will inte
 
 ![Event Schedule Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/32cdefd2-9d79-4d42-beb6-03fe29fd1660)
 
+### iPad Mini 8.3 User Registration Section
 
 ![User Registration Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/e0e7c5dc-42bc-4921-b4f1-3cb2894b82da)
 
