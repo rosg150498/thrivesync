@@ -240,6 +240,7 @@ In the process of developing my personal development event platform, I will inte
 
 ![Terms and Privacy Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/24ee7e5d-cb40-48df-8993-3f00bb9323b9)
 
+### iPad Mini 8.3 Logout Section
 
 ![Logout Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/0a8183a6-2080-4a26-920a-f97c9b7df0f8)
 
