@@ -224,6 +224,7 @@ In the process of developing my personal development event platform, I will inte
 
 ![User Registration Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/e0e7c5dc-42bc-4921-b4f1-3cb2894b82da)
 
+### iPad Mini 8.3 User Profile Section
 
 ![User Profile Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/3dd19c01-029e-4f74-b5ba-a334531b5913)
 
