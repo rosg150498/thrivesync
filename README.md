@@ -214,6 +214,10 @@ In the process of developing my personal development event platform, I will inte
 ![Events Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/113385a5-bef2-4ab2-a0cd-39a01f9e0f48)
 
 
+![Event Schedule Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/32cdefd2-9d79-4d42-beb6-03fe29fd1660)
+
+
+
 ## Project Features
 
 ### Current Features 
