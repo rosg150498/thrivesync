@@ -212,6 +212,7 @@ In the process of developing my personal development event platform, I will inte
 
 ![About Us Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/6c566f61-69df-4d98-9141-ea52f6353d36)
 
+### iPad Mini 8.3 Events Section
 
 ![Events Section Tablet Wireframe](https://github.com/rosg150498/thrivesync/assets/114010857/113385a5-bef2-4ab2-a0cd-39a01f9e0f48)
 
