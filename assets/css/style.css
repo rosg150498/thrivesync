@@ -23,3 +23,27 @@
     border-radius:25%;
     box-shadow: 2px 4px 4px 4px #3BB143;
 }
+
+
+#navigation-links{
+    float: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    list-style: none;
+    text-transform: uppercase;
+    line-height: 75px;
+}
+
+
+#navigation-links ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+
+#navigation-links ul li a{
+    color: #FFFFFF;
+}
