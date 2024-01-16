@@ -47,3 +47,14 @@
 #navigation-links ul li a{
     color: #FFFFFF;
 }
+
+
+#navigation-links li{
+    margin-right: 1.2rem;
+    margin-left: 2rem;
+}
+
+
+#navigation-links li:first-child{
+    margin-left: 43.125rem;
+}
