@@ -6,6 +6,7 @@
     padding: 0;
 }
 
+
 #navigation-bar{
     background-color: #185D8B;
     display: flex;
@@ -48,6 +49,7 @@
 
 
 #navigation-links ul li a{
+    font-family: 'Lato', sans-serif;
     color: #FFFFFF;
 }
 
