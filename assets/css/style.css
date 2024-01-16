@@ -3,6 +3,14 @@
     padding: 0;
 }
 
+#navigation-bar{
+    background-color: #185D8B;
+    display: flex;
+    justify-content: space-between;
+    height: 20vh;
+    width: 100%;
+}
+
 
 #logo{
     background: url(../images/Thrive-Sync-logo.png) no-repeat no-repeat;
