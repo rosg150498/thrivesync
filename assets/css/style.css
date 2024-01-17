@@ -50,6 +50,7 @@
 
 #navigation-links ul li a{
     font-family: 'Lato', sans-serif;
+    font-size: 19.2px;
     color: #FFFFFF;
 }
 
@@ -61,5 +62,5 @@
 
 
 #navigation-links li:first-child{
-    margin-left: 43.125rem;
+    margin-left: 38rem;
 }
