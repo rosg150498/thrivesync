@@ -64,3 +64,8 @@
 #navigation-links li:first-child{
     margin-left: 38rem;
 }
+
+
+#navigation-links ul li a:hover{
+    color: #CCCCCC;
+}
