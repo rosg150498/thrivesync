@@ -73,6 +73,7 @@
 
 #home-image{
     background: url(../images/home-image.jpg) no-repeat no-repeat;
+    margin-left: 18.6rem;
     height: 660px;
     width: 1000px;
 }
