@@ -70,3 +70,9 @@
     color: #CCCCCC;
 }
 
+
+#home-image{
+    background: url(../images/home-image.jpg) no-repeat no-repeat;
+    height: 660px;
+    width: 1000px;
+}
