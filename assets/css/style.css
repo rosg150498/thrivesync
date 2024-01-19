@@ -1,12 +1,15 @@
+/* Importing Google Fonts for Lato and Open Sans */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans:wght@400;600;700&display=swap');
 
 
+/* Resetting margin and padding for all elements */
 *{
     margin: 0;
     padding: 0;
 }
 
 
+/* Styling for the navigation bar */
 #navigation-bar{
     background-color: #185D8B;
     display: flex;
@@ -16,6 +19,7 @@
 }
 
 
+/* Styling for the logo */
 #logo{
     background: url(../images/Thrive-Sync-logo.png) no-repeat no-repeat;
     display: block;
@@ -29,6 +33,7 @@
 }
 
 
+/* Styling for the navigation links */
 #navigation-links{
     float: left;
     display: flex;
@@ -40,6 +45,7 @@
 }
 
 
+/* Styling for the unordered list within navigation links */
 #navigation-links ul{
     list-style: none;
     margin: 0;
@@ -48,6 +54,7 @@
 }
 
 
+/* Styling for the links within navigation links */
 #navigation-links ul li a{
     font-family: 'Lato', sans-serif;
     font-size: 19.2px;
@@ -55,22 +62,26 @@
 }
 
 
+/* Margin and spacing for individual navigation links */
 #navigation-links li{
     margin-right: 1.2rem;
     margin-left: 2rem;
 }
 
 
+/* Adjusting margin for the first navigation link */
 #navigation-links li:first-child{
     margin-left: 38rem;
 }
 
 
+/* Hover effect for the links within navigation links */
 #navigation-links ul li a:hover{
     color: #CCCCCC;
 }
 
 
+/* Styling for the home image */
 #home-image{
     background: url(../images/home-image.jpg) no-repeat no-repeat;
     margin-left: 18.6rem;
