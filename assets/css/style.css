@@ -108,3 +108,18 @@
     margin-top: 4.6rem;
     margin-left: 41.4rem;
 }
+
+
+/* Styling for the about us paragraph content */
+.about-us{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.6rem;
+    background-color: #185D8B;
+    color: #FFFFFF;
+    margin-top: 4.6rem;
+    margin-left: 14.4rem;
+    height: 180px;
+    width: 70.6%;
+    padding-top: 2rem;
+    padding-left: 2.8rem;
+}
