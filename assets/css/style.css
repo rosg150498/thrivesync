@@ -126,3 +126,9 @@
     word-spacing: 0.9rem;
     line-height: 3.4rem;
 }
+
+
+/* Styling for individual about us paragraphs */
+.about-us{
+    margin-top: 2rem;
+}
