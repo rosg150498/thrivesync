@@ -79,6 +79,7 @@
 /* Hover effect for the links within navigation links */
 #navigation-links ul li a:hover{
     color: #CCCCCC;
+    text-decoration: underline;
 }
 
 
