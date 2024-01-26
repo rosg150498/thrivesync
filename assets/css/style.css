@@ -161,6 +161,13 @@
 }
 
 
+/* Style for grid layout */
+#events-info{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
 .individual-event{
     margin-top: 2.6rem;
 }
