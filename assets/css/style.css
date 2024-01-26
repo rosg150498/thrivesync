@@ -143,6 +143,7 @@
     color: #185D8B;
     margin-top: 8rem;
     margin-left: 32rem;
+    margin-bottom: 4rem;
     text-decoration: underline;
 }
 
@@ -172,6 +173,12 @@
     font-size: 20px;
     color: #185D8B;
     margin-top: 0.6rem;
+    text-decoration: underline;
+}
+
+
+#event-details{
+    margin-top: -2rem;
 }
 
 
