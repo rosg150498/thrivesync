@@ -134,6 +134,15 @@
 }
 
 
+/* Styling for the about us info paragraph content with added icon */
+#about-us-info::before {
+    content: '\1F331'; 
+    font-size: 2rem;   
+    color: #FFA500;    
+    margin-right: 0.5rem;
+}
+
+
 /* Styling for individual about us paragraphs */
 .about-us{
     margin-top: 2rem;
