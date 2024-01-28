@@ -138,7 +138,8 @@
 #about-us-info::before {
     content: '\1F331'; 
     font-size: 2rem;   
-    color: #FFA500;    
+    color: #FFA500; 
+    margin-left: 30rem;   
 }
 
 
