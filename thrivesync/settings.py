@@ -94,7 +94,7 @@ WSGI_APPLICATION = 'thrivesync.wsgi.application'
 
 
 DATABASES = {
-    'default': dj_database_url.parse(os.environ.get("DATABASE_URL")),
+    'default': dj_database_url.config(default=os.environ.get("DATABASE_URL")),
     'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'ThriveSync',
         'USER': 'dbmqivcy',
