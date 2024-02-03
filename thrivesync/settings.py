@@ -94,7 +94,13 @@ WSGI_APPLICATION = 'thrivesync.wsgi.application'
 
 
 DATABASES = {
-    'default': dj_database_url.parse(os.environ.get("DATABASE_URL"))
+    'default': dj_database_url.parse(os.environ.get("DATABASE_URL")),
+    'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'ThriveSync',
+        'USER': 'dbmqivcy',
+        'PASSWORD': 'TVmmCCMz0sDqKY8b3Gm-59ExL8L9QiEY',
+        'HOST': 'mel.db.elephantsql.com',  
+        'PORT': '5432',
 }
 
 
