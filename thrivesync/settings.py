@@ -35,7 +35,7 @@ SECRET_KEY = 'django-insecure-!sw%@t%39$ec$i^(2zm2!5*d4uip9#_#+g$4ntsdxxdni%14t-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-rosg150498-thrivesync-7kx86dsrkzd.ws-eu107.gitpod.io']
+ALLOWED_HOSTS = ['8000-rosg150498-thrivesync-bk431kf314f.ws-eu108.gitpod.io']
 
 
 # Application definition
@@ -92,16 +92,16 @@ WSGI_APPLICATION = 'thrivesync.wsgi.application'
 #   }
 # }
 
+DATABASES = {}
 
-DATABASES = {
-    'default': dj_database_url.config(default=os.environ.get("DATABASE_URL")),
-    'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dbmqivcy',
-        'USER': 'dbmqivcy',
-        'PASSWORD': 'TVmmCCMz0sDqKY8b3Gm-59ExL8L9QiEY',
-        'HOST': 'mel.db.elephantsql.com',  
-        'PORT': '5432',
-}
+DATABASES['default'] = dj_database_url.config(default=os.environ.get("DATABASE_URL"))
+DATABASES['default']['ENGINE'] = 'django.db.backends.postgresql'
+DATABASES['default']['NAME'] = 'dbmqivcy'
+DATABASES['default']['USER'] = 'dbmqivcy'
+DATABASES['default']['PASSWORD'] = 'TVmmCCMz0sDqKY8b3Gm-59ExL8L9QiEY'
+DATABASES['default']['HOST'] = 'mel.db.elephantsql.com'
+DATABASES['default']['PORT'] = '5432'
+DATABASES['default']['OPTIONS'] = {'sslmode': 'require'}
 
 
 # Password validation
