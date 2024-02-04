@@ -76,11 +76,27 @@
 }
 
 
+/* Style for the last navigation link */
+#register-link{
+    margin-top: -4rem;
+    margin-left: -7rem !important; 
+}
+
+
+/* Style for the second-to-last navigation link */
+#login-link{
+    margin-top: -4rem;
+    margin-left: -14rem !important; 
+}
+
+
 /* Hover effect for the links within navigation links */
 #navigation-links ul li a:hover{
     color: #CCCCCC;
     text-decoration: underline;
 }
+
+
 
 
 /* Styling for the home image */
@@ -198,3 +214,5 @@
 span{
     font-weight: bold;
 }
+
+
