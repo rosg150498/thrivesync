@@ -19,6 +19,7 @@ from django.urls import path
 
 from project.views import index
 from project.views import register
+from project.views import login
 
 urlpatterns = [
     path('', index, name='index'),
