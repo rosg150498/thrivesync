@@ -24,7 +24,9 @@
 <section id="register">
         <div class="container mt-5">
             <h2>Register</h2>
-            <form>
+            <form method="post" action="{% url 'register' %}">
+                {% csrf_token %}
+                
                 <div class="mb-3">
                     <label for="forename" class="form-label">Forename</label>
                     <input type="text" class="form-control" id="forename" name="forename" required>
