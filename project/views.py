@@ -1,6 +1,7 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from project.forms import CustomUserCreationForm
+from project.forms import CustomAuthenticationForm
 
 # Create your views here.
 def index(request):
