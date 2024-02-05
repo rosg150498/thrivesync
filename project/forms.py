@@ -24,6 +24,18 @@ class CustomUserCreationForm(UserCreationForm):
         fields = ('forename', 'surname', 'gender', 'email', 'phone_number', 'username', 'password1', 'password2')
 
 
+class CustomUserCreationForm(UserCreationForm):
+    password2 = forms.CharField(label='Confirm Password', widget=forms.PasswordInput)
+
+    def clean_password2(self):
+        password1 = self.cleaned_data.get('password1')
+        password2 = self.cleaned_data.get('password2')
+
+        if password1 and password2 and password1 != password2:
+            raise forms.ValidationError('Passwords do not match.')
+
+        return password2
+
 
 class CustomAuthenticationForm(AuthenticationForm):
     username = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control'}))
