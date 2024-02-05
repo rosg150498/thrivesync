@@ -8,7 +8,15 @@ def index(request):
     return render(request, 'index.html')
 
 def register(request):
-    return render(request, 'register.html')
+    if request.method == 'POST':
+            form = CustomUserCreationForm(request.POST)
+            if form.is_valid():
+                form.save()
+                return redirect('login')  
+    else:
+            form = CustomUserCreationForm()
+    
+    return render(request, 'register.html', {'form': form})  
 
 def login(request):
     return render(request, 'login.html')
