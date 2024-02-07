@@ -29,12 +29,12 @@ class CustomUserCreationForm(UserCreationForm):
             raise forms.ValidationError("Passwords don't match")
         return password2
 
-    def save(self, commit=True):
-        user = super().save(commit=False)
+def save(self, commit=True):
+    user = super().save(commit=False)
     user.set_password(self.cleaned_data["password1"])
     if commit:
         user.save()
-        return user
+    return user
 
 class CustomAuthenticationForm(AuthenticationForm):
     username = forms.CharField(widget=forms.TextInput(attrs={'class': 'form-control'}))
