@@ -3,6 +3,8 @@ from django.http import HttpResponse
 from project.forms import CustomUserCreationForm
 from project.forms import CustomAuthenticationForm
 from django.views.decorators.csrf import csrf_protect
+from django.views.decorators.csrf import csrf_failure
+from django.http import HttpResponseForbidden
 
 def index(request):
     return render(request, 'index.html')
