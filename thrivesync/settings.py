@@ -34,6 +34,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-rosg150498-thrivesync-bk431kf314f.ws-eu108.gitpod.io', 'api.elephantsql.com']
 
+CSRF_FAILURE_VIEW = 'project.views.custom_csrf_failure_view'
+
 
 # Application definition
 
