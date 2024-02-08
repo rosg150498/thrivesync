@@ -21,5 +21,12 @@ def register(request):
     
     return render(request, 'register.html', {'form': form})  
 
+
+@csrf_failure
+def customer_csrf_failure_view(request, reason=""):
+
+    return HttpResponseForbidden('CSRF verification failed. Please Try again.')
+
+
 def login(request):
     return render(request, 'login.html')
