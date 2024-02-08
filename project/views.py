@@ -23,7 +23,7 @@ def register(request):
 
 
 @csrf_failure
-def customer_csrf_failure_view(request, reason=""):
+def custom_csrf_failure_view(request, reason=""):
 
     return HttpResponseForbidden('CSRF verification failed. Please Try again.')
 
