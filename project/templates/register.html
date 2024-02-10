@@ -21,7 +21,7 @@
 <body>
 
 <section id="register">
-        <h2>Register</h2>
+        <h2 id="register-heading">Register</h2>
         <form method="post" action="{% url 'register' %}">
             {% csrf_token %}
             {{ form.as_p }}
