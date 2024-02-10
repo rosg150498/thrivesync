@@ -2,13 +2,13 @@ from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from project.forms import CustomUserCreationForm
 from project.forms import CustomAuthenticationForm
-from django.views.decorators.csrf import csrf_protect
+from django.views.decorators.csrf import csrf_exempt
 from django.http import HttpResponseForbidden
 
 def index(request):
     return render(request, 'index.html')
 
-@csrf_protect
+@csrf_exempt
 def register(request):
     if request.method == 'POST':
             form = CustomUserCreationForm(request.POST)

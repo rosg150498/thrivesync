@@ -78,7 +78,7 @@
 
 /* Style for the last navigation link */
 #register-link-nav{
-    margin-top: -4rem;
+    margin-top: -4rem !important;
     margin-left: -7rem !important; 
 }
 
