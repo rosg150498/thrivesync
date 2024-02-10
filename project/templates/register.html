@@ -34,13 +34,17 @@
 
             {% if form.field_name.errors %}
 
-                <div class="invalid-feedback"></div>
+                <div class="invalid-feedback">
 
                     {% for error in form.field_name.errors %}
 
                         {{ error }}
 
                     {% endfor %}
+
+                </div>
+                
+            {% endif %}
 
             </div>
         </div>
